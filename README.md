@@ -15,3 +15,5 @@ The PDF site always spits out messages like
 since the PDF plugin is looking in the source tree only for images, and the generated image is in the target/site area.
 
 I don't want to generate the diagram images in the source tree (since don't want them checked in).
+
+See also this "issue" where there is some discussion of the problem https://github.com/asciidoctor/asciidoctor-pdf/issues/495
