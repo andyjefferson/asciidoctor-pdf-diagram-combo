@@ -1,10 +1,12 @@
 # asciidoctor-pdf-diagram-combo
-Example of using Asciidoctor generating PDF using asciidoctor-diagram
+Example of using Asciidoctor generating PDF whilst using asciidoctor-diagram to generate some PNGs of images.
 
 
 I'm wanting to use Asciidoctor to generate a site in HTML, and also PDF, and using Maven.
 
 This works fine until I want to generate diagrams using the asciidoctor-diagram plugin. 
+The diagrams are created in PNG form in the output directory. The PDF plugin doesn't know to look there.
+
 The HTML site is still generated fine with the generated images for the diagrams.
 The PDF site always spits out messages like
 
