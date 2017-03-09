@@ -1,0 +1,24 @@
+[[index]]
+= Sub Page
+:_basedir: ../ 
+:_imagesdir: images/
+
+
+This is the sub page.
+
+
+
+[ditaa, "relation_1_1_uni_db"]
+-----
+/-----------\               /--------------\
+| USER c6BA |               | ACCOUNT c6BA |
++-----------+               +--------------+
+| o USER_ID |-*-----+       | o ACCOUNT_ID |
+|   LOGIN   |       |       |   FIRSTNAME  |
+| cADC      |       |       |   LASTNAME   |
+\-----------/       +-----*-| + USER_ID    |
+                            | cADC         |
+                            \--------------/
+-----
+
+Hope you liked the diagram

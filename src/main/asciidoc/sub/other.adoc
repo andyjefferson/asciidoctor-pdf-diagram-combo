@@ -1,0 +1,12 @@
+[[sub_other]]
+= Sub Other Page
+:_basedir: ../ 
+:_imagesdir: images/
+
+
+This is the other sub page.
+
+
+image:../images/relationship_1_1_uni_db.png[]
+
+The image above is in the source tree

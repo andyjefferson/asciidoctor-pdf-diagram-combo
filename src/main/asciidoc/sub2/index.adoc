@@ -1,0 +1,11 @@
+[[index]]
+= Sub2 Page
+:_basedir: ../ 
+:_imagesdir: images/
+
+
+This is the sub2 page.
+
+
+
+No image at all here

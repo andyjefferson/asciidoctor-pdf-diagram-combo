@@ -1,0 +1,13 @@
+[[index]]
+= FrontPage
+:_basedir: 
+:_imagesdir: images/
+
+
+image:images/dn_accessplatform_overview.png[]
+
+
+This is the front page.
+
+Here is a link:sub/index.html[link to a subpage].
+
